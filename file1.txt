@@ -1,4 +1,7 @@
 fff modified
 new line
 another new line
+more lines
+
 I want you
+I don't want you

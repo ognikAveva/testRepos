@@ -1,7 +1,7 @@
 fff modified
 new line
 another new line
-<<<<<<< .merge_file_a18348
+<<<<<<< HEAD
 more
 =======
 
@@ -10,4 +10,4 @@ more lines
 I want you
 I don't want you
 Am I on b2?
->>>>>>> .merge_file_a15812
+>>>>>>> b2
